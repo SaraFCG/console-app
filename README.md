@@ -1,2 +1,2 @@
-# console-app
-.NET 7.0 console application
+# RadioConformanceTest
+Practica 3
